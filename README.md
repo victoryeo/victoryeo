@@ -3,6 +3,9 @@
 #### Solidity, Hardhat, Truffle,
 #### React, JS/TS, Web3, Ethersjs 
 #### NFT minting, NFT marketplaces, Opensea APIs
+#### Hyperledger Fabric enterprise software architecture
+#### Hyperledger Fabric chaincode
+#### AWS solutions architecture
 
 <!--
 **victoryeo/victoryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
