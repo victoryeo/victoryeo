@@ -1,8 +1,8 @@
 ### Ethereum and Hyperledger Fabric Blockchain developer 
 
-white_check_mark Solidity, Hardhat, Truffle,
-white_check_mark React, JS/TS, Web3, Ethersjs 
-white_check_mark NFT minting, NFT marketplaces, Opensea APIs
+# Solidity, Hardhat, Truffle,
+# React, JS/TS, Web3, Ethersjs 
+# NFT minting, NFT marketplaces, Opensea APIs
 
 <!--
 **victoryeo/victoryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
