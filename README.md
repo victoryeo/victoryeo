@@ -5,7 +5,7 @@
 #### NFT minting, NFT marketplaces, Opensea APIs
 #### Hyperledger Fabric enterprise software architecture
 #### Hyperledger Fabric chaincode
-#### AWS solutions architecture
+#### AWS/GCP solutions architecture
 #### Kubernetes, Helm, Terraform
 
 <!--
