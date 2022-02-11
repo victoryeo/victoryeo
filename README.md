@@ -6,7 +6,7 @@
 #### Hyperledger Fabric enterprise software architecture
 #### Hyperledger Fabric chaincode
 #### AWS solutions architecture
-#### Kubernetes, Helm, Terreform
+#### Kubernetes, Helm, Terraform
 
 <!--
 **victoryeo/victoryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
