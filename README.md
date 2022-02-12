@@ -1,8 +1,8 @@
 ### Ethereum and Hyperledger Fabric Blockchain developer 
 
 #### Solidity, Hardhat, Truffle, Web3, Ethersjs
-#### NodeJS, Javascript, Python, Golang, C/C++, Java, Ruby
-#### NestJS, ReactJS, React Native  
+#### Javascript, Typescript, Python, Golang, C/C++, Java, Ruby
+#### NodeJS, NestJS, ReactJS, React Native  
 #### NFT minting, NFT marketplaces, Opensea APIs
 #### Hyperledger Fabric enterprise software architecture
 #### Hyperledger Fabric chaincode
