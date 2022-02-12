@@ -8,6 +8,7 @@
 #### Hyperledger Fabric chaincode
 #### AWS/GCP solutions architecture
 #### Kubernetes, Helm, Terraform
+#### Blog: https://victoryeo-62924.medium.com/
 
 📫 How to reach me: ...
 
