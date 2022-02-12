@@ -10,7 +10,7 @@
 #### Kubernetes, Helm, Terraform
 #### Blog: https://victoryeo-62924.medium.com/
 
-📫 How to reach me: ...
+📫 How to reach me: victoryeo1974@gmail.com
 
 <!--
 **victoryeo/victoryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
