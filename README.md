@@ -1,12 +1,15 @@
 ### Ethereum and Hyperledger Fabric Blockchain developer 
 
-#### Solidity, Hardhat, Truffle
-#### React, JS/TS, Web3, Ethersjs 
+#### Solidity, Hardhat, Truffle, Web3, Ethersjs
+#### NodeJS, Javascript, Python, Golang, C/C++, Java, Ruby
+#### NestJS, ReactJS, React Native  
 #### NFT minting, NFT marketplaces, Opensea APIs
 #### Hyperledger Fabric enterprise software architecture
 #### Hyperledger Fabric chaincode
 #### AWS/GCP solutions architecture
 #### Kubernetes, Helm, Terraform
+
+📫 How to reach me: ...
 
 <!--
 **victoryeo/victoryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
