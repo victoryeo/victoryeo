@@ -9,7 +9,7 @@
 #### Hyperledger Fabric chaincode
 #### AWS/GCP solutions architecture
 #### Kubernetes, Helm, Terraform
-#### Apache Kafka stream
+#### Apache Kafka event driven design
 #### Blog: https://victoryeo-62924.medium.com/
 
 📫 How to reach me: victoryeo1974@gmail.com
