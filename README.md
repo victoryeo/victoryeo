@@ -3,7 +3,7 @@
 #### Solidity, Hardhat, Truffle, Web3, Ethersjs
 #### Javascript, Typescript, Python, Golang, C/C++, Java, Ruby
 #### NodeJS, NestJS, ReactJS, React Native, Spring Boot
-#### DAML contract and libraries
+#### DAML contract and React libraries
 #### NFT minting, NFT marketplaces, Opensea APIs
 #### Hyperledger Fabric enterprise software architecture
 #### Hyperledger Fabric chaincode
