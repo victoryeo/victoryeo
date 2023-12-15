@@ -1,8 +1,10 @@
 ### Ethereum and Hyperledger Fabric Blockchain developer 
 
-#### Solidity, Hardhat, Truffle, Web3, Ethersjs
+#### Solidity, Hardhat, Truffle, Web3, Ethersjs, Wagmi
 #### Javascript, Typescript, Python, Golang, C/C++, Java, Ruby
 #### NodeJS, NestJS, ReactJS, React Native, Spring Boot
+#### Enterprise Digital Asset Custody
+#### Decentralised ID with ZKP
 #### DAML contract and DAML React libraries
 #### NFT minting, NFT marketplaces, Opensea APIs
 #### Hyperledger Fabric enterprise software architecture
