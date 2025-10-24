@@ -1,10 +1,10 @@
 ### Fullstack and Blockchain developer and DevOps
 
-#### Solidity, Hardhat, Foundry, Web3js, Ethersjs, Wagmi
-#### Javascript, Typescript, Python, Golang, C/C++, Java
+#### Solidity, Hardhat, Foundry, Ethersjs, Wagmi
+#### Javascript, Typescript, Python, Golang, Java, C
 #### NodeJS, NestJS, NextJS, React Native, Spring Boot
 #### Enterprise Digital Asset Custody
-#### Decentralised ID with ZKP
+#### Stablecoin Solutions
 #### ERC20 token, ERC2535 Diamond Proxy, ERC4626 Vault
 #### NFT minting, NFT marketplaces, Opensea APIs
 #### Hyperledger Fabric enterprise software architecture
