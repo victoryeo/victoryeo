@@ -1,4 +1,4 @@
-### Fullstack and Blockchain developer and DevOps
+### Fullstack and AI/Blockchain developer and DevOps
 
 #### Solidity, Hardhat, Foundry, Ethersjs, Wagmi
 #### LangChain, LangGraph AI applications
