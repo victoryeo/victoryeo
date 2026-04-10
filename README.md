@@ -1,6 +1,7 @@
 ### Fullstack and Blockchain developer and DevOps
 
 #### Solidity, Hardhat, Foundry, Ethersjs, Wagmi
+#### LangChain, LangGraph AI applications
 #### Javascript, Typescript, Python, Golang, Java, C
 #### NodeJS, NestJS, NextJS, React Native, Spring Boot
 #### Enterprise Digital Asset Custody
