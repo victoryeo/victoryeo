@@ -13,7 +13,7 @@
 #### Event driven microservices design with Apache Kafka 
 #### Blog: https://victoryeo-62924.medium.com/
 
-📫 How to reach me: victoryeo1974@gmail.com
+📫 How to reach me: yeosiowvic@gmail.com
 
 <!--
 **victoryeo/victoryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
